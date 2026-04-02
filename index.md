@@ -8,6 +8,8 @@ title: Home
 Welcome to my personal website!
 
 ## About Me
+![My Photo](test0.jpg)
+
 I'm a student interested in tech, ideas, and learning new things.
 I'm pretty good at overthinking, judging people and getting into trouble.
 
