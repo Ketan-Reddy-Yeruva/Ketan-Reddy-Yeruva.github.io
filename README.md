@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-cayman
+---
+
 # Hi, I'm Ketan 👋
 
 Welcome to my personal website!
