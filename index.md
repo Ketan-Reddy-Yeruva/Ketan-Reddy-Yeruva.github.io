@@ -1,0 +1,23 @@
+---
+theme: jekyll-theme-cayman
+title: Home
+---
+
+# Hi, I am just tryin things 👋
+
+Welcome to my personal website!
+
+## About Me
+I'm a student interested in tech, ideas, and learning new things.
+I'm pretty good at overthinking, judging people and getting into trouble.
+
+## Interests
+- AI
+- Programming
+- Math
+- Random cool stuff
+
+## What I'm doing
+- Studying
+- Building projects
+- Writing notes
