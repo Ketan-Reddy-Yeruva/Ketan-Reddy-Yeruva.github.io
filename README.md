@@ -10,6 +10,7 @@ I'm pretty good at overthinking, judging people and getting into trouble.
 - AI
 - Programming
 - Math
+- Planning
 - Random cool stuff
 
 ## What I'm doing
