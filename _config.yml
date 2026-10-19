@@ -1,3 +1,21 @@
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-midnight
-title: Ketan's Site
+
+
+# theme: jekyll-theme-midnight
+# title: Ketan's Site
+
+
+title: Ketan
+tagline: Living in the moment (idontthinkso)
+description: Personal website and blog.
+url: "https://ketan-reddy-yeruva.github.io"
+author: Ketan Reddy Yeruva
+avatar: "/mypic.jpg"
+
+theme: jekyll-theme-chirpy
+
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
