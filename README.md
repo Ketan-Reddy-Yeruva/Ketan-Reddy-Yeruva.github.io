@@ -1,4 +1,4 @@
-<!-- # Hi, I'm Ketan 👋
+# Hi, I'm Ketan 👋
 
 Welcome to my personal website!
 
@@ -16,4 +16,4 @@ I'm pretty good at overthinking, judging people and getting into trouble.
 ## What I'm doing
 - Studying
 - Building projects
-- Writing notes -->
+- Writing notes
