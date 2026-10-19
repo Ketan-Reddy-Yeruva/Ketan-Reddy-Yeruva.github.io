@@ -4,9 +4,9 @@ layout: default
 title: Home
 ---
 
-# Hi, I am just tryin to figure out life 👋
+# Hello There, I am just tryin to figure out life 👋
 
-[Home](index) | [Blogs](blogs) | [Reviews](reviews)
+[Home](index) | [Blogs](blogs) | [Stories](stories)
 
 ---
 
