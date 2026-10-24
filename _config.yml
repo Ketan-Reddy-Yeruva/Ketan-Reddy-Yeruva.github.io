@@ -7,10 +7,17 @@ avatar: "/test0.jpg"
 
 theme: jekyll-theme-chirpy
 
-# Social Links in Sidebar
+# Defines sidebar tab display order
+tabs_order:
+  - about
+  - categories
+  - tags
+  - archives
+
+# Social Links at bottom-left of sidebar
 social:
   name: Ketan Reddy Yeruva
-  email: ketanreddy27@gmail.com
+  email: "ketanreddy27@gmail.com"
   links:
     - https://github.com/Ketan-Reddy-Yeruva
     - https://www.linkedin.com/
