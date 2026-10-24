@@ -7,12 +7,12 @@ avatar: "/test0.jpg"
 
 theme: jekyll-theme-chirpy
 
-# Sidebar Social Links
 social:
   name: Ketan Reddy Yeruva
   email: "ketanreddy27@gmail.com"
-  github: Ketan-Reddy-Yeruva
-  linkedin: ketan-reddy-yeruva
+  links:
+    - https://github.com/Ketan-Reddy-Yeruva
+    - https://www.linkedin.com/
 
 plugins:
   - jekyll-paginate

@@ -12,7 +12,6 @@ Welcome to my personal site!
 
 ## About Me
 I'm a junior interested in tech, new ideas, and learning new things.
-I'm pretty good at overthinking, judging people, and getting into trouble.
 
 ## Interests
 - **Programming**
