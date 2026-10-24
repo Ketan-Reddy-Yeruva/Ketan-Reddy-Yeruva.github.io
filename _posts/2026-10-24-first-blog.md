@@ -1,21 +1,12 @@
 ---
-title: Trying to see if it works
+layout: post
+title: Trying to See If It Works
 date: 2026-10-24 15:03:00 +0530
-categories: [General]
+categories: [General, Thoughts]
 tags: [life, learning]
 ---
 
-Welcome to my personal blog!
+My current thoughts on building projects, learning math, and organizing notes.
 
-## About Me
-I'm a junior interested in tech, new ideas, and learning new things.
-
-## Interests
-- **Programming**
-- **Math**
-- **Insta reels**
-
-## What I'm doing
-- Studying
-- Building projects
-- Writing notes
+## What's Next?
+Stay tuned for updates on coding projects and study notes!
