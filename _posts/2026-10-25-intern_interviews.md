@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Interviews for Internships
-date: 2026-07-21 12:00:00 +0530
-display_date: "Oct 25, 2026"
+date: 2026-10-25 02:49:00 +0530
+# display_date: "Oct 25, 2026"
+permalink: /posts/intern-interviews/
 categories: [General, Thoughts]
 tags: [life, learning]
 ---

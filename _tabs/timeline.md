@@ -16,6 +16,7 @@ A chronological record of milestones, achievements, and experiences.
 
 * **Oct 25, 2026** — Published reflection on internship selection process.
 * **Jul 21, 2026** — [Attended interviews and secured an internship offer at an Indian Quant Firm](/posts/intern-interviews/).
+<!-- * * **Jul 21, 2026** — [Attended interviews and secured an internship offer at an Indian Quant Firm]({% post_url 2026-07-21-intern-interviews %}) -->
 * **Jun 2026** — Started working on personal site and Jekyll themes.
 
 ---
