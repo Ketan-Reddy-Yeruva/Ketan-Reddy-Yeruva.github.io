@@ -7,20 +7,12 @@ avatar: "/test0.jpg"
 
 theme: jekyll-theme-chirpy
 
-# Defines sidebar tab display order
-tabs_order:
-  - about
-  - categories
-  - tags
-  - archives
-
-# Social Links at bottom-left of sidebar
+# Sidebar Social Links
 social:
   name: Ketan Reddy Yeruva
   email: "ketanreddy27@gmail.com"
-  links:
-    - https://github.com/Ketan-Reddy-Yeruva
-    - https://www.linkedin.com/
+  github: Ketan-Reddy-Yeruva
+  linkedin: ketan-reddy-yeruva
 
 plugins:
   - jekyll-paginate
