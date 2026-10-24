@@ -1,6 +1,6 @@
 ---
-title : Trying to see if it works
-data : 2026-10-24 15:03 +05:30
+title: Trying to see if it works
+date: 2026-10-24 15:03:00 +0530
 categories: [General]
 tags: [life, learning]
 ---
